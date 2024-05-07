@@ -1,7 +1,4 @@
-<p align="center"><img width="40%" src="logo/pytorch_logo_2018.svg" /></p>
-
---------------------------------------------------------------------------------
-
+<h1>Deep Learning with pytorch</h1>
 This repository provides tutorial code for deep learning researchers to learn [PyTorch](https://github.com/pytorch/pytorch). In the tutorial, most of the models were implemented with less than 30 lines of code. Before starting this tutorial, it is recommended to finish [Official Pytorch Tutorial](http://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html).
 
 
@@ -27,7 +24,7 @@ This repository provides tutorial code for deep learning researchers to learn [P
 
 ## Getting Started
 ```bash
-$ git clone https://github.com/yunjey/pytorch-tutorial.git
+$ git clone https://github.com/niteshshah53/DeepLearning_pytorch.git
 $ cd pytorch-tutorial/tutorials/PATH_TO_PROJECT
 $ python main.py
 ```
