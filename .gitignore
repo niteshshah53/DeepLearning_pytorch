@@ -1,0 +1,5 @@
+*.npy
+*.ckpt
+PetImages/
+.ipynb_checkpoints
+
