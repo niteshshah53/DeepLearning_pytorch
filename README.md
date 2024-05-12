@@ -19,7 +19,7 @@ This repository provides tutorial code for deep learning researchers to learn [P
 * [Bidirectional Recurrent Neural Network](https://github.com/niteshshah53/DeepLearning_pytorch/blob/main/02-intermediate/bidirectional_recurrent_neural_network/main.py)
 * [Language Model (RNN-LM)](https://github.com/niteshshah53/DeepLearning_pytorch/blob/main/02-intermediate/bidirectional_recurrent_neural_network/main.py)
 #### 3. Difficult
-* [GAN](https://github.com/niteshshah53/DeepLearning_pytorch/blob/main/02-intermediate/convolutional_neural_network/main.py)
+* [GAN]([https://github.com/niteshshah53/DeepLearning_pytorch/blob/main/02-intermediate/convolutional_neural_network/main.py](https://github.com/niteshshah53/DeepLearning_pytorch/blob/main/03-advanced/generative_adversarial_network/main.py))
 
 
 <br/>
