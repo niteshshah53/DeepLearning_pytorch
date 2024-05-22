@@ -21,6 +21,8 @@ This repository provides tutorial code for deep learning researchers to learn [P
 #### 3. Advanced
 * [Generative_Adversarial_Network](https://github.com/niteshshah53/DeepLearning_pytorch/blob/main/03-advanced/generative_adversarial_network/main.py)
 * [variational_autoencoder](https://github.com/niteshshah53/DeepLearning_pytorch/blob/main/03-advanced%2Fvariational_autoencoder%2Fmain.py)
+#### 4. Utils
+* [Tensorboard]
 
 
 <br/>
